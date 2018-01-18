@@ -76,6 +76,7 @@ The public key is available for the user offline, imprinted at the charging stat
 ## Supporters
 
  * [Wiedergrün](https://wiedergruen.com)
+ * [GraphDefined](https://graphdefined.com/)
 
 ## Links
 
